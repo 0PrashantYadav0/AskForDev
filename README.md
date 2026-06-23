@@ -5,3 +5,5 @@ A place for new businesses to seek help for free and new developer to work on so
 [ ] Create webapp
 [ ] Allow developer and new business login
 [ ] comment and project display
+[ ] project display
+[ ] add and get project
